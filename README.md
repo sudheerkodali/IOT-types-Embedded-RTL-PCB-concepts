@@ -14,7 +14,7 @@ IOT (Internet of Things) and Upper Physical Systems (Basic Embedded concepts and
             <td><img src="sun.jpg"></td>
             <td>
                 <h1>sudheer chowdari kodali</h1>
-                <p><em><strong> sap hcm <a
+                <p><em><strong> Embedded bsyatems and PCB, RTL Design <a
                                 href="https://www.linkedin.com/in/sudheer-chowdari-kodali-04175a12a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bc57RwNHZTJunxD87o1ZD8g%3D%3D">Functional
                                 Consultant</a></strong></em></p>
                 <p><em>Link to:<a href="contact information.html"><strong>contact information</a></em></strong></p>
@@ -31,13 +31,13 @@ IOT (Internet of Things) and Upper Physical Systems (Basic Embedded concepts and
 
     <hr>
     <table>
-        <h3>HCM SKILLS SET</h3> <!--heading from 1 to 6-->
+        <h3> IOT things on Blooth Devices Works on chip level </h3> <!--heading from 1 to 6-->
         <ol>
 
-            <!-- <li><em><strong><p><a href="ORGANISATION MANAGEMENT.html"> ORGANISATION MANAGEMENT </strong></a></em></p></li>-->
+            <!-- <li><em><strong><p><a href="ORGANISATION MANAGEMENT.html"> chip level coding and design  </strong></a></em></p></li>-->
             <li>
                 <h4><em>
-                        <p style="color:blue;">ORGANISATION MANAGEMENT</h4></em>
+                        <p style="color:blue;">IOT design with Embedded design  </h4></em>
             </li>
 
 
