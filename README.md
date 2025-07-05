@@ -12,6 +12,7 @@ IOT (Internet of Things) and Upper Physical Systems (Basic Embedded concepts and
     <table cellspacing="20">
         <tr>
             <td><img src="sun.jpg"></td>
+            <a href="pdf/Resume_KrishnaGiri.pdf"><font size="4">[Curriculum Vitae]</font></a>
             <td>
                 <h1>sudheer chowdari kodali</h1>
                 <p><em><strong> Embedded syatems and PCB, RTL Design <a
