@@ -12,18 +12,14 @@ IOT (Internet of Things) and Upper Physical Systems (Basic Embedded concepts and
     <table cellspacing="20">
         <tr>
             <td><img src="sun.jpg"></td>
-            <a href="pdf/Resume_KrishnaGiri.pdf"><font size="4">[Curriculum Vitae]</font></a>
+            <a href="pdf/sudheer_lot.pdf"><font size="4">[Document]</font></a>
             <td>
                 <h1>sudheer chowdari kodali</h1>
-                <p><em><strong> Embedded syatems and PCB, RTL Design <a
+                <p><em><strong> Embedded systems and PCB, RTL Design <!--<a
                                 href="https://www.linkedin.com/in/sudheer-chowdari-kodali-04175a12a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bc57RwNHZTJunxD87o1ZD8g%3D%3D">Functional
-                                Consultant</a></strong></em></p>
+                                Consultant</a>--></strong></em></p>
                 <p><em>Link to:<a href="contact information.html"><strong>contact information</a></em></strong></p>
-                <p>Expertised in hcm consultant,with proper knowledge in Organisation Managament, Personal
-                    Administration ,Time Management, Recruitment,Personal Development,Trinning and Event
-                    Management.Particularly on payroll PCR and CAP agriments and period parameters and data modifiers
-                    and when it come's to TM grouping subarea for work shedules and planned work time grouping public
-                    holiday calander etc.Business documentation and Ess and Mss </p>
+                <p>Expertised in Techno consultant, to refrain my self to adopt new tools, which were so useful to high_skill in my job to adopt new concepts is the main reason I had adopted the Embedded programming, and the market leads to product and service base merge to create new job maarket, even hr techno consultant need to have some advanced idea on concepts, to run any organization or unicon statups new to learn product bases domain knowleder, can help us more transperent in job market</p>
             </td>
         </tr>
     </table>
