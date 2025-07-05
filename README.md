@@ -31,7 +31,7 @@ IOT (Internet of Things) and Upper Physical Systems (Basic Embedded concepts and
         <h3> IOT things on Blooth Devices Works on chip level </h3> <!--heading from 1 to 6-->
         <ol>
 
-            <!-- <li><em><strong><p><a href="ORGANISATION MANAGEMENT.html"> chip level coding and design  </strong></a></em></p></li>-->
+            <!-- <li><em><strong><p><!--<a href="ORGANISATION MANAGEMENT.html">--><a href="pdf/sudheer_lot.pdf"><font size="4">[Document]</font></a> chip level coding and design  </strong></a></em></p></li>-->
             <li>
                 <h4><em>
                         <p style="color:blue;">IOT design with Embedded design  </h4></em>
