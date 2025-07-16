@@ -42,13 +42,13 @@ IOT (Internet of Things) and Upper Physical Systems (Basic Embedded concepts and
 
 
             <ul>
-                <li> </li>
-                <li> </li>
-                <li> </li>
-                <li> </li>
-                <li> </li>
-                <li> </li>
-                <li> </li>
+                <li>Types of IOT'S </li>
+                <li> IOT(IIOT) Bluetooth devices </li>
+                <li> RTL Logical gates</li>
+                <li> PCB Board concepts</li>
+                <li> Embedded systems </li>
+                <li> oops concepts on logical gates</li>
+                <li> DSA and pseudo logics </li>
                 <!--<p><em>link To:<a
                             href="https://docs.google.com/document/d/1DbudnewJ2Bo93aBb40fmdq59P5glkT9JUJCJM4F57ag/edit?usp=sharing"><strong>project
                                 document on OM</a></em></strong>
