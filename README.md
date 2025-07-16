@@ -6,7 +6,7 @@ IOT (Internet of Things) and Upper Physical Systems (Basic Embedded concepts and
  
 <head>
     <meta charset="utm-8">
-    <title> <h3>IOT with Embedded RTL Design</title></h3> </title>
+    <title> <h3>IOT with Embedded RTL Design</title></h3>
 </head>
 
 <body>
