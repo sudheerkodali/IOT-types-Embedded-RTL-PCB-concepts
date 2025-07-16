@@ -3,10 +3,10 @@ IOT (Internet of Things) and Upper Physical Systems (Basic Embedded concepts and
 
 <!DOCTYPE html
 <html>
- <title> IOT with Embedded RTL Design </title>
+ 
 <head>
     <meta charset="utm-8">
-   <!-- <title> IOT with Embedded RTL Design </title>-->
+   <h3><title> IOT with Embedded RTL Design</title></h3></title>
 </head>
 
 <body>
