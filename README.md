@@ -16,7 +16,7 @@ IOT (Internet of Things) and Upper Physical Systems (Basic Embedded concepts and
             <a href="pdf/sudheer_lot.pdf"><font size="4">[Document]</font></a>
             <td>
                 <h1>sudheer chowdari kodali</h1>
-                <p><em><strong> Embedded systems and PCB, RTL Design <!--<a
+                <p><em><strong></strong>Embedded systems and PCB, RTL Design <!--<a
                                 href="https://www.linkedin.com/in/sudheer-chowdari-kodali-04175a12a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bc57RwNHZTJunxD87o1ZD8g%3D%3D">Functional
                                 Consultant</a>--></strong></em></p>
                 <p><em>Link to:<a href="contact information.html"><strong>contact information</a></em></strong></p>
